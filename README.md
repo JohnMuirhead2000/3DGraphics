@@ -1,2 +1,1 @@
-# NeocisAssessment
-My solution to the Neocis Software Assessment
+3D Graphics tool to redner a 3D shape using 2D graphics. 
